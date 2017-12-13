@@ -27,5 +27,5 @@ for i in range(n):
     if flag:
         print('Yes')
     else:
-        print('No')
+        print('Noooo')
     
